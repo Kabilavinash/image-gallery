@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGE GALLERY</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Madimi+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <h1 class="titlebar">
+            IMAGE GALLERY
+        </h1>
+        <div class="container">
+
+            <div>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?2">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?2">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?2">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+
+                <imG src="https://source.unsplash.com/random/200x200/?cars?1">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?1">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?2">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?3">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?4">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?5">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?6">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?7">
+            </div>
+            <div>
+                <p>
+                    Lorem, ipsum dolor sit amet
+                </p>
+                <imG src="https://source.unsplash.com/random/200x200/?cars?8">
+            </div>
+        </div>
+
+</body>
+
+</html>
